@@ -9,6 +9,8 @@ Plugins
 
 * [Authorize Extension](https://github.com/jamalsoueidan/AuthorizeExtension) Easy Authorization
 
+* [EzyFox](https://github.com/youngmonkeys/ezyfox-server)
+
 Custom Clients
 -
 * [Haxe Client](https://github.com/boorik/smartfox-haxe-client)
